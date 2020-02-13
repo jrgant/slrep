@@ -4,4 +4,4 @@ Based on Section 3.3.3 of Polley EC, Rose S, van der Laan MJ. "Super Learning", 
 
 Following code examples in:
 
-Kennedy, Chris. [Guide to SuperLearner](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html#fit-individual-models). March 16, 2017.
+Kennedy, Chris. [Guide to SuperLearner](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html). March 16, 2017.
